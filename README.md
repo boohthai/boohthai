@@ -11,7 +11,7 @@ After graduating from university with a Bachelor of Engineering degree, speciali
 * 🧑‍🎓  Ho Chi Minh City University of Technology (intake 2018)
 * ✉️  You can contact me at [work.taithai@gmail.com](mailto:work.taithai@gmail.com)
 * 🧠  I'm learning Flutter, Computer Vision, NLP
-* 🤝  I'm open to collaborating on IoT, Computer Vision
+* 🤝  I'm open to collaborate on IoT, Computer Vision
 
 ### Skills
 
